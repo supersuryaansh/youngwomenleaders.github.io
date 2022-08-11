@@ -1,0 +1,10 @@
+## **Impact of stereotypes on women’s growth**
+
+STEM fields are no exception from gender biases and stereotypes towards women, which cause huge obstacles to women’s participation, attraction, and representation in STEM.  
+There are a lot of stereotypes about women in STEM and the effect of these wrong beliefs influences women’s presence in science fields by adding more pressure on women.  
+Many of these stereotypes take root in ancient times but we still have them in our current days, even with all the technological, industrial, commercial and societal progress our societies made that was never possible without women.  
+One of the most famous stereotypes about young girls and women is that boys are better at Math. Studies explain that these types of stereotypes develop Numerophobia and “mathematics anxiety” among young girls. Numerophobia could lead young girls to have serious trouble with Maths.  
+Unfortunately, stereotypes start among children at a very young age. A recent study found children from 3 to 5 years of age endorsed strong gender stereotypes about STEM and found less support for counter-stereotypical STEM career options (Mulvey and Irvin, 2018). From the age of six, children believe that boys are better at robotics than girls (Master et al., 2017a). Within the same age group, children believe that boys are smarter than girls (Bian et al., 2017).  
+The impact of women’s stereotypes in STEM is not only limited to women and young girls doubting themselves when it comes to their math and science abilities, but also the lack of existence and continuity of women in STEM, the feeling that you’re being left alone that women in STEM face, and adding more barriers for women to overtake.  
+Global issues nowadays need a variety of voices and thoughts to be solved and should not be finite to men only. We need every help possible to make our world a better place and, for that, STEM fields need to be more flexible and for women to be part of the solution. That’s why any obstructions women go through have to be removed immediately.
+
