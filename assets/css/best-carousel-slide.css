@@ -70,15 +70,15 @@ span {
 
 a {
   text-decoration: none;
-  color: #fff;
+  color: #6C757D;
 }
 
 a:hover {
-  color: #fff;
+  color: #6C757D;
 }
 
 a:visited {
-  color: #fff;
+  color: #6C757D;
 }
 
 @media (max-width: 768px) {
